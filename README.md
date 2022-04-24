@@ -1,4 +1,4 @@
-### Hi there,I'm Ankit Tyagi 👋                                           <img src="https://www.freepik.com/vectors/study-on-computer/4">
+### Hi there,I'm Ankit Tyagi 👋                                           
 
 
 - 🌱 I’m currently learning Django Rest FrameWork                          
