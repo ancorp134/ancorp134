@@ -1,10 +1,8 @@
-<div style="align-items:center">
-<img src="https://ankit-tyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" style="width:600px; height: 600px margin left: 50%">
-</div>
 
-   
-   
-  ### Hi there,I'm Ankit Tyagi 👋                                           
+<img src="https://ankit-tyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" style="width:550px; height: 550px margin left: 50%">
+
+
+ ### Hi there,I'm Ankit Tyagi 👋                                           
 
 
 - 🌱 I’m currently learning Django Rest FrameWork                          
