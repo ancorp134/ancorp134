@@ -1,5 +1,5 @@
 
-<img src="https://ankit-tyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" style="width:550px; height: 550px margin left: 50%">
+<img src="https://ankit-tyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" style="width:500px; height: 500px margin left: 50%">
 
 
  ### Hi there,I'm Ankit Tyagi 👋                                           
