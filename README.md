@@ -1,13 +1,17 @@
 
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://ankit-tyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" width="500" height="350" />
 
 ### Hi there, I'm Ankit Tyagi 👋                                           
 
 
 - 🌱 I’m currently learning Django Rest FrameWork                          
 - 💬 Ask me about Django Development.
-- 📫 How to reach me: ancorp007@gmail.com   
+- 📫 How to reach me: ancorp007@gmail.com  
+
+<br/>
+<br/>
+<br/>
  
 ### Connect With Me 🤝
 
@@ -27,6 +31,7 @@
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
+<br/>
 <br/>
 <br/>
 <br/>
