@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="GIF" src="https://ankit-tyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" width="500" height="350" />
+<img align="right" alt="GIF" src="https://ankit-tyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" width="400" height="280" />
 
 ### Hi there, I'm Ankit Tyagi 👋                                           
 
@@ -10,8 +10,7 @@
 - 📫 How to reach me: ancorp007@gmail.com  
 
 <br/>
-<br/>
-<br/>
+
  
 ### Connect With Me 🤝
 
