@@ -53,7 +53,7 @@
 <br/>
 
 <a href="https://github.com/ancorp134">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancorp134&theme=tokyolight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancorp134&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/ancorp134">
