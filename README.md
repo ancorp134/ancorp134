@@ -54,10 +54,10 @@
 <br/>
 
 <a href="https://github.com/ancorp134">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancorp134&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancorp134&theme=gradient" />
   </a>
 
 <a href="https://github.com/ancorp134">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ancorp134&show_icons=true&theme=tokyonight&line_height=27" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ancorp134&show_icons=true&theme=gradient&line_height=27" />
 </a>
 
