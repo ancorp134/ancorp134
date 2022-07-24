@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Django Rest FrameWork                          
 - 💬 Ask me about Django Development.
-- 📫 How to reach me: ancorp007@gmail.com  
+- 📫 How to reach me: ankittyagi1398gmail.com  
 
 <br/>
 
