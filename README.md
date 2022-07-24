@@ -53,11 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ancorp134/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ancorp134&repo=github-readme-stats" />
-</a>
+![Ankit Tyagi GitHub stats](https://github-readme-stats.vercel.app/api?username=ancorp134&theme=dark&show_icons=true)
 
-<a href="https://github.com/ancorp134">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ancorp134&show_icons=true&theme=gradient&line_height=27" />
-</a>
+
 
