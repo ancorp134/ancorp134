@@ -55,5 +55,5 @@
 
 ![Ankit Tyagi GitHub stats](https://github-readme-stats.vercel.app/api?username=ancorp134&theme=dark&show_icons=true)
 
-
+![AnKit Tyagi's GitHub stats](https://github-readme-repo.vercel.app/api?username=ancorp134&theme=dark&show_icons=true)
 
