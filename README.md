@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="GIF" src="https://ankittyagi-11cb4e.netlify.app/images/Hero-Images_Websites.png" width="450" height="330" />
+<img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="450" height="400" />
 
 ### Hi there, I'm Ankit Tyagi 👋                                           
 
