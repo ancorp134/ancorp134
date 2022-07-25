@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="450" height="400" />
 
 ### Hi there, I'm Ankit Tyagi 👋                                           
-
+![](https://komarev.com/ghpvc/?username=ancorp134&color=blue)
 
 - 🌱 I’m currently learning Django Rest FrameWork                          
 - 💬 Ask me about Django Development.
