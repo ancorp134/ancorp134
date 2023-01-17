@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="450" height="400" />
 
-#### Hi there, I'm Ankit Tyagi 👋                                           
+## Hi there, I'm Ankit Tyagi 👋                                           
 ![](https://komarev.com/ghpvc/?username=ancorp134&color=blue)
 
 - 🌱 I’m currently learning Django Rest FrameWork                          
@@ -11,7 +11,7 @@
 
 <br/>
 
- #### Languages and Tools 🔰:
+ ## Languages and Tools 🔰:
  <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -30,7 +30,7 @@
 </br> 
 <br/>
  
-#### Connect With Me 🤝
+## Connect With Me 🤝
 <br/>
 <a href="https://www.instagram.com/_ankit_tyagi_12/" target="_blank">
   <img align="left" alt="Dave's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
@@ -53,7 +53,7 @@
 <br/>
 
 
-#### :fire: My Stats :
+## :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ancorp134&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancorp134&layout=compact&theme=dark)  ![Ankit Tyagi GitHub stats](https://github-readme-stats.vercel.app/api?username=ancorp134&theme=dark&show_icons=true)
