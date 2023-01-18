@@ -33,19 +33,19 @@
 ## Connect With Me 🤝
 <br/>
 <a href="https://www.instagram.com/_ankit_tyagi_12/" target="_blank">
-  <img align="left" alt="Dave's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+  <img align="left" alt="Dave's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100004965226765" target="_blank">
-  <img align="left" alt="Dave's Facebook" width="30px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+  <img align="left" alt="Dave's Facebook" width="40px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
 <a href="https://twitter.com/Ankitty19769248" target="_blank">
-  <img align="left" alt="Dave's Twitter" width="30px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+  <img align="left" alt="Dave's Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
 <a  href="https://www.linkedin.com/in/ankit-tyagi-a846711a8/" target="_blank">
-  <img align="left" alt="Dave's Linkdein" width="30px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+  <img align="left" alt="Dave's Linkdein" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 <br/>
