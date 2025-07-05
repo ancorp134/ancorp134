@@ -5,9 +5,12 @@
 # Hi there, I'm Ankit Tyagi 👋                                           
 ![](https://komarev.com/ghpvc/?username=ancorp134&color=blue)
 
-- 🌱 I’m currently learning Django Rest FrameWork                          
-- 💬 Ask me about Django Development.
-- 📫 How to reach me: ankittyagi1398gmail.com  
+- 🔭 I’m currently working on **Django + React projects**  
+- 🌱 I’m currently learning **Microservices, DRF advanced topics**  
+- 👯 I’m looking to collaborate on **Open Source Django / React projects**  
+- 💬 Ask me about **Python, Django, DRF, React**  
+- 📫 How to reach me: ancorp007@gmail.com 
+- ⚡ Fun fact: I love exploring new tech stacks and solving real-world problems with data.
 
 <br/>
 
